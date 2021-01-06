@@ -6,9 +6,6 @@
 
 **Mail:** kerim_celebiler@hotmail.com
 
-## Project Name
-
-
 ## Requirements
 ```
 Scikit-Learn
