@@ -1,7 +1,17 @@
 # GlobalAIHubMLCourse
 
-Name: Kerim Görkem
+**Course Date:** 4.01.2021 **Name:** Kerim Görkem
 
-Surname: Çelebiler
+**Surname:** Çelebiler
 
-Mail: kerim_celebiler@hotmail.com
+**Mail:** kerim_celebiler@hotmail.com
+
+## Project Name
+
+
+## Requirements
+```
+Some python libraries
+Some python libraries
+Some python libraries
+```
