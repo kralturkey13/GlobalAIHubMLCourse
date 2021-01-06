@@ -11,7 +11,7 @@
 
 ## Requirements
 ```
-Some python libraries
-Some python libraries
-Some python libraries
+Scikit-Learn
+Pandas
+Numpy
 ```
