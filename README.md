@@ -12,4 +12,8 @@
 Scikit-Learn
 Pandas
 Numpy
+Seaborn
+Matplotlib
+Xgboost
+Graphviz
 ```
