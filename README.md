@@ -16,4 +16,5 @@ Seaborn
 Matplotlib
 Xgboost
 Graphviz
+Scipy
 ```
