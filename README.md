@@ -1,7 +1,9 @@
 # GlobalAIHubMLCourse
 ![](img/logo.png)
 
-**Course Date:** 4.01.2021 **Name:** Kerim Görkem
+**Course Date:** 4.01.2021 
+
+**Name:** Kerim Görkem
 
 **Surname:** Çelebiler
 
