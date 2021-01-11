@@ -18,3 +18,6 @@ Xgboost
 Graphviz
 Scipy
 ```
+
+# Certificate
+![](img/globalaihubmlcoursecertificate.png)
